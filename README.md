@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
 
 **- 🔭 I’m currently working on **[TeamCodeHub](https://teamcodehub.herokuapp.com/)** **
-- 🔭 I’m currently working on *Nagarro*
+- 🔭 I’m currently working on *Infosys(DSE)*
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
