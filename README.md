@@ -8,9 +8,9 @@
 ## 🙋‍♂️ About Me
 
 **- 🔭 I’m currently working on **[TeamCodeHub](https://teamcodehub.herokuapp.com/)** **
-- 🔭 I’m currently working on *Infosys(DSE)*
+- 🔭 I’m currently working on **Boomi** as a **Software Developer 1** . 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Some new Stuffs**
 
 - 📫 How to reach me **saurabhyash1707@gmail.com**
 
